@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f4b3cc90.css",
+    "main.js": "./static/js/main.d911e2a0.js",
+    "static/js/787.1ed0c42c.chunk.js": "./static/js/787.1ed0c42c.chunk.js",
+    "static/media/discord-bot.mp4": "./static/media/discord-bot.5d57d10d218172ef8f84.mp4",
+    "static/media/php-web.mp4": "./static/media/php-web.0359011b39894fe3303e.mp4",
+    "static/media/game-modding.mp4": "./static/media/game-modding.cfa689bfaf0216d8f24b.mp4",
+    "static/media/stars.png": "./static/media/stars.2bb736eeb267e789ddd4.png",
+    "static/media/googlesheets.jpg": "./static/media/googlesheets.13af590da46fe277ef57.jpg",
+    "index.html": "./index.html",
+    "main.f4b3cc90.css.map": "./static/css/main.f4b3cc90.css.map",
+    "main.d911e2a0.js.map": "./static/js/main.d911e2a0.js.map",
+    "787.1ed0c42c.chunk.js.map": "./static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4b3cc90.css",
+    "static/js/main.d911e2a0.js"
+  ]
+}
