@@ -30,13 +30,13 @@ export default function Home() {
               <div className="box box1 card">
                 <img src={starsImage} alt="John" style= {{ width: "100%" }} />
                 <h1 style= {{ color:"rgb(32, 32, 32)" }}>Nicholas</h1>
-                <p className="title">C#, Java, JavaScript</p>
+                <p className="title">C#/C, Java</p>
                 <p>Canadian Developer</p>
               </div>
               <p>&nbsp;</p>
               <div className="box box2 card">
                 <h1 style= {{ color: "rgb(32, 32, 32)" }}>About Me</h1>
-                <p className="title">Hey, I'm a Canadian Software Developer who primarily works in Game Dev/Modding.</p>
+                <p className="title">Hey, I'm a Canadian Software Developer who primarily works in Web/Game Development & Modding.</p>
               </div>
           </section>
           <section className="dark"></section>
