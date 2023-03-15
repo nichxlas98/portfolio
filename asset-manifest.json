@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f4b3cc90.css",
-    "main.js": "/portfolio/static/js/main.ac5b17de.js",
+    "main.js": "/portfolio/static/js/main.7a512b3d.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/discord-bot.mp4": "/portfolio/static/media/discord-bot.5d57d10d218172ef8f84.mp4",
     "static/media/php-web.mp4": "/portfolio/static/media/php-web.0359011b39894fe3303e.mp4",
     "static/media/game-modding.mp4": "/portfolio/static/media/game-modding.cfa689bfaf0216d8f24b.mp4",
     "static/media/stars.png": "/portfolio/static/media/stars.2bb736eeb267e789ddd4.png",
     "static/media/googlesheets.jpg": "/portfolio/static/media/googlesheets.13af590da46fe277ef57.jpg",
+    "static/media/bwrp-ucp.png": "/portfolio/static/media/bwrp-ucp.5f834f0a8b96c6ceedc0.png",
     "index.html": "/portfolio/index.html",
     "main.f4b3cc90.css.map": "/portfolio/static/css/main.f4b3cc90.css.map",
-    "main.ac5b17de.js.map": "/portfolio/static/js/main.ac5b17de.js.map",
+    "main.7a512b3d.js.map": "/portfolio/static/js/main.7a512b3d.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4b3cc90.css",
-    "static/js/main.ac5b17de.js"
+    "static/js/main.7a512b3d.js"
   ]
 }
