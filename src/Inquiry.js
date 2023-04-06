@@ -1,5 +1,4 @@
 import { Helmet } from 'react-helmet';
-import InquiryComponent from './InquiryComponent';
 import './css/inquiry.css';
 import './css/App.css';
 import './css/main.css';
