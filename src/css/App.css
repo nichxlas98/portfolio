@@ -1,3 +1,9 @@
+.icon-container i {
+  display: inline-block;
+  font-size: 1.5em; /* or any other value you prefer */
+  margin-right: 5px;
+}
+
 .box-container {
   display: flex;
   justify-content: space-between;

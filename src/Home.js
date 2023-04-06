@@ -15,6 +15,7 @@ export default function Home() {
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" /> 
       </Helmet>
       <header className="App-header">
         <div className="topnav">
@@ -30,7 +31,13 @@ export default function Home() {
               <div className="box box1 card">
                 <img src={starsImage} alt="John" style= {{ width: "100%" }} />
                 <h1 style= {{ color:"rgb(32, 32, 32)" }}>Nicholas</h1>
-                <p className="title">(CSharp, Java, C, JavaScript, PHP)</p>
+                <div class="icon-container">
+                  <i class="devicon-c-plain colored"></i>
+                  <i class="devicon-csharp-plain colored"></i>
+                  <i class="devicon-java-plain colored"></i>
+                  <i class="devicon-javascript-plain colored"></i>
+                  <i class="devicon-php-plain colored"></i>
+                </div>
                 <p>Canadian Programmer</p>
               </div>
               <p>&nbsp;</p>

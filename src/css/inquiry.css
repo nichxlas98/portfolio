@@ -1,0 +1,45 @@
+form {
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  
+  input[type=text], input[type=email], textarea {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: rgb(66, 66, 255); /* Change the background color to blue */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 12px 20px;
+    cursor: pointer;
+    float: right;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #a3a3a3;
+  }
+  
+  @media screen and (max-width: 480px) {
+    input[type=text], input[type=email], textarea {
+      width: 100%;
+      padding: 12px;
+      border: none;
+      border-radius: 5px;
+      margin-bottom: 10px;
+      resize: vertical;
+    }
+  
+    input[type=submit] {
+      padding: 10px 16px;
+    }
+  }
