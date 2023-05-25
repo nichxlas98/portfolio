@@ -38,12 +38,12 @@ export default function Home() {
                   <i class="devicon-javascript-plain colored"></i>
                   <i class="devicon-php-plain colored"></i>
                 </div>
-                <p>Canadian Programmer</p>
+                <p>Canadian Developer</p>
               </div>
               <p>&nbsp;</p>
-              <div className="box box2 card">
+              <div className="box box2 aboutcard">
                 <h1 style= {{ color: "rgb(32, 32, 32)" }}>About Me</h1>
-                <p className="title">Hey, I'm a Canadian Programmer who primarily works with Object-Oriented-Programming in Web/Game Development & Modding.</p>
+                <p className="title">Hey, I'm a Canadian Developer who primarily works with Object-oriented programming in Web and Software Development.</p>
               </div>
           </section>
           <section className="dark"></section>
