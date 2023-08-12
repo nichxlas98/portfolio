@@ -7,6 +7,7 @@ import './css/text.css';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 
 import sheetsImage from './media/googlesheets.jpg';
+import intranetWeb from './media/intranet-web.mp4';
 import phpWeb from './media/php-web.mp4';
 import gameModding from './media/game-modding.mp4';
 import discordBot from './media/discord-bot.mp4';
@@ -36,8 +37,16 @@ function Project() {
           <p style={{color: "aquamarine", textAlign: 'center' }}>Projects developed by @nichxlas98, credits to other contributors will be mentioned in future.</p>
         </section>
         <section className="dark">
+          <h1 style= {{ color:"rgb(255, 127, 127)" }}>Intranet Website</h1>
+          <p style={{ color:"white" }}>A website using MySQL as a database, as well as PHP, CSS and JavaScript. This website is a project management app that lets employees manage company files and so on. (@nichxlas98)</p>
+          <video className="video" width="852" height="480" controls loop>
+              <source src={intranetWeb} type="video/mp4"/>
+              Your browser does not support the video tag.
+          </video>
+        </section>
+        <section className="dark">
           <h1 style= {{ color:"rgb(255, 127, 127)" }}>MySQL Website</h1>
-          <p style={{ color:"white" }}>A website using MySQL as a database, and PHP, CSS & JavaScript. (@nichxlas98)</p>
+          <p style={{ color:"white" }}>A website using MySQL as a database, as well as PHP, CSS & JavaScript. (@nichxlas98)</p>
           <video className="video" width="852" height="480" controls loop>
               <source src={phpWeb} type="video/mp4"/>
               Your browser does not support the video tag.
