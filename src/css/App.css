@@ -9,7 +9,7 @@
   justify-content: space-between;
 }
 .box {
-  background-color: gray;
+  background-color: rgb(255, 255, 255);
   animation-duration: 1s;
   animation-fill-mode: forwards;
 }
@@ -40,8 +40,10 @@
 .aboutcard {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   max-width: 600px;
+  height: 180px;
   margin: auto;
   text-align: center;
+  color: white;
 }
 
 .title {

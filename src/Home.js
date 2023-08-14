@@ -42,8 +42,8 @@ export default function Home() {
               </div>
               <p>&nbsp;</p>
               <div className="box box2 aboutcard">
-                <h1 style= {{ color: "rgb(32, 32, 32)" }}>About Me</h1>
-                <p className="title">Hey, I'm a Canadian Developer who primarily works with Object-oriented programming in Web and Software Development.</p>
+                <h1 style= {{ color:"rgb(32, 32, 32)" }}>About Me</h1>
+                <p className="title" style={{ color:"rgb(32, 32, 32)" }}>Hey, I'm a Canadian Developer who primarily works with Object-oriented programming in Web and Software Development.</p>
               </div>
           </section>
           <section className="dark"></section>
